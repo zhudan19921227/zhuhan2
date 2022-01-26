@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_login_jenkins2",
+    "children" : [ {
+      "name" : "输入用户名,输入密码, 点击保持登入，点击登入",
+      "uid" : "1b4349d6a1ee50e1",
+      "parentUid" : "37aa65b89a190b97238285a0620b8e42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642750289891,
+        "stop" : 1642750291164,
+        "duration" : 1273
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'{\"user\": 13362683621, \"password\": \"zhuhan19921227\"}'", "'{\"loginName\": \"\\u5927\\u5934\"}'" ]
+    }, {
+      "name" : "输入用户名,输入密码, 点击保持登入，点击登入",
+      "uid" : "a76e545de45629df",
+      "parentUid" : "37aa65b89a190b97238285a0620b8e42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642750292322,
+        "stop" : 1642750298564,
+        "duration" : 6242
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'{\"user\": 13362683621, \"password\": \"\"}'", "'{\"loginName\": \"\"}'" ]
+    }, {
+      "name" : "输入用户名,输入密码, 点击保持登入，点击登入",
+      "uid" : "77961a3f7fefb75b",
+      "parentUid" : "37aa65b89a190b97238285a0620b8e42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642750299599,
+        "stop" : 1642750305510,
+        "duration" : 5911
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'{\"user\": \"\", \"password\": \"zhuhan19921227\"}'", "'{\"loginName\": \"\"}'" ]
+    }, {
+      "name" : "输入用户名,输入密码, 点击保持登入，点击登入",
+      "uid" : "e7cf762ec83bc56e",
+      "parentUid" : "37aa65b89a190b97238285a0620b8e42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642750306510,
+        "stop" : 1642750312303,
+        "duration" : 5793
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'{\"user\": \"\", \"password\": \"\"}'", "'{\"loginName\": \"\"}'" ]
+    }, {
+      "name" : "test002",
+      "uid" : "6a271cdeb1b606e2",
+      "parentUid" : "37aa65b89a190b97238285a0620b8e42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642750313314,
+        "stop" : 1642750313884,
+        "duration" : 570
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "37aa65b89a190b97238285a0620b8e42"
+  } ]
+}

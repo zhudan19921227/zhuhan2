@@ -1,0 +1,135 @@
+{
+  "uid" : "6a271cdeb1b606e2",
+  "name" : "test002",
+  "fullName" : "test_login_jenkins2.TestLoginPageCase#test002",
+  "historyId" : "5678369622e12701c2d19bc07329550a",
+  "time" : {
+    "start" : 1642750313314,
+    "stop" : 1642750313884,
+    "duration" : 570
+  },
+  "description" : "4.忘记密码",
+  "descriptionHtml" : "<p>4.忘记密码</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestLoginPageCase",
+    "time" : {
+      "start" : 1642750283504,
+      "stop" : 1642750286041,
+      "duration" : 2537
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "4.忘记密码",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击忘记密码",
+      "time" : {
+        "start" : 1642750313314,
+        "stop" : 1642750313865,
+        "duration" : 551
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "判断忘记密码页是否存在",
+      "time" : {
+        "start" : 1642750313865,
+        "stop" : 1642750313884,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestLoginPageCase::0",
+    "time" : {
+      "start" : 1642750313885,
+      "stop" : 1642750316255,
+      "duration" : 2370
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登入模块"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "story",
+    "value" : "登入测试用例"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_jenkins2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLoginPageCase"
+  }, {
+    "name" : "host",
+    "value" : "PC-201712281019"
+  }, {
+    "name" : "thread",
+    "value" : "19224-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login_jenkins2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a271cdeb1b606e2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,177 @@
+{
+  "uid" : "1b4349d6a1ee50e1",
+  "name" : "输入用户名,输入密码, 点击保持登入，点击登入",
+  "fullName" : "test_login_jenkins2.TestLoginPageCase#test001",
+  "historyId" : "bf55f2653ceeedfa063e98e24709e044",
+  "time" : {
+    "start" : 1642750289891,
+    "stop" : 1642750291164,
+    "duration" : 1273
+  },
+  "description" : "1.输入用户名,输入密码, 点击保持登入，点击登入",
+  "descriptionHtml" : "<p>1.输入用户名,输入密码, 点击保持登入，点击登入</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestLoginPageCase",
+    "time" : {
+      "start" : 1642750283504,
+      "stop" : 1642750286041,
+      "duration" : 2537
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "1.输入用户名,输入密码, 点击保持登入，点击登入",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入用户名",
+      "time" : {
+        "start" : 1642750289891,
+        "stop" : 1642750289973,
+        "duration" : 82
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "text",
+        "value" : "13362683621"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入密码",
+      "time" : {
+        "start" : 1642750289973,
+        "stop" : 1642750290052,
+        "duration" : 79
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "text",
+        "value" : "'zhuhan19921227'"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击登入",
+      "time" : {
+        "start" : 1642750290052,
+        "stop" : 1642750291136,
+        "duration" : 1084
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "获取登入名",
+      "time" : {
+        "start" : 1642750291136,
+        "stop" : 1642750291163,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestLoginPageCase::0",
+    "time" : {
+      "start" : 1642750313885,
+      "stop" : 1642750316255,
+      "duration" : 2370
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登入模块"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "story",
+    "value" : "登入测试用例"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_jenkins2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLoginPageCase"
+  }, {
+    "name" : "host",
+    "value" : "PC-201712281019"
+  }, {
+    "name" : "thread",
+    "value" : "19224-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login_jenkins2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "'{\"user\": 13362683621, \"password\": \"zhuhan19921227\"}'"
+  }, {
+    "name" : "rep",
+    "value" : "'{\"loginName\": \"\\u5927\\u5934\"}'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b4349d6a1ee50e1.json",
+  "parameterValues" : [ "'{\"user\": 13362683621, \"password\": \"zhuhan19921227\"}'", "'{\"loginName\": \"\\u5927\\u5934\"}'" ]
+}

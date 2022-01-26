@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 21 15:31:29 CST 2022","Fri Jan 21 15:31:31 CST 2022","1273","","test_login_jenkins2","TestLoginPageCase","","","输入用户名,输入密码, 点击保持登入，点击登入","1.输入用户名,输入密码, 点击保持登入，点击登入"
+"passed","Fri Jan 21 15:31:39 CST 2022","Fri Jan 21 15:31:45 CST 2022","5911","","test_login_jenkins2","TestLoginPageCase","","","输入用户名,输入密码, 点击保持登入，点击登入","1.输入用户名,输入密码, 点击保持登入，点击登入"
+"passed","Fri Jan 21 15:31:53 CST 2022","Fri Jan 21 15:31:53 CST 2022","570","","test_login_jenkins2","TestLoginPageCase","","","test002","4.忘记密码"
+"passed","Fri Jan 21 15:31:46 CST 2022","Fri Jan 21 15:31:52 CST 2022","5793","","test_login_jenkins2","TestLoginPageCase","","","输入用户名,输入密码, 点击保持登入，点击登入","1.输入用户名,输入密码, 点击保持登入，点击登入"
+"passed","Fri Jan 21 15:31:32 CST 2022","Fri Jan 21 15:31:38 CST 2022","6242","","test_login_jenkins2","TestLoginPageCase","","","输入用户名,输入密码, 点击保持登入，点击登入","1.输入用户名,输入密码, 点击保持登入，点击登入"
